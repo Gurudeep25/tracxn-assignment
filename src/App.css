@@ -1,0 +1,71 @@
+.heading {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 30px;
+  width: 100%;
+}
+
+.btn {
+  padding: 10px;
+  background-color: darkslateblue;
+  color: white;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.container {
+  margin: 20px;
+  max-width: 40%;
+  min-height: 800px;
+  margin-left: 400px;
+  padding: 10px;
+  border: 5px solid darkgray;
+  border-radius: 10px;
+}
+
+label {
+  font-size: 18px;
+}
+
+input {
+  font-size: 15px;
+  padding: 3px 8px;
+  border-radius: 5px;
+}
+
+#coverLetter {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+
+#additionalInfo {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+}
+
+#applyingFor {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#gender {
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.form-group {
+  margin: 15px;
+}
+
+.submit {
+  padding: 8px;
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  border-radius: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
